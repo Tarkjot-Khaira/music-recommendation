@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+.App {
+  max-width: 650px;
+  margin: auto;
+  padding: 2rem;
+  color: white;
+}
+body {
+  background-color: #1f2937;
+  font-family: "Dancing Script", cursive;
+}
+.btn-primary {
+  padding: "0.5rem 0.5rem";
+  margin: "1rem";
+  margin-left: "auto";
+  font-family: "inherit";
+  background-color: "white";
+  border-radius: "0.5rem";
+  font-size: "large";
+  font-weight: "bold";
+}
